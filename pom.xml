@@ -35,9 +35,9 @@
   
 <distributionManagement>
     <repository>
-        <id>ecbbfec74f31</id>
-        <name>ecbbfec74f31-releases</name>
-        <url>http://13.127.169.155:8090/artifactory/ext-release-local</url>
+        <id>Loren</id>
+        <name>Loren</name>
+        <url>http://34.201.16.149:8081/nexus/#view-repositories;Loren~browsestorage</url>
     </repository>
 </distributionManagement>
 
